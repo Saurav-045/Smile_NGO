@@ -2,9 +2,9 @@
 
 *SMILE*, a full-stack web development project that showcases my coding skills and creativity! 🌟
 
-![Project Screenshot]
-| ![Project Screenshot 1](https://github.com/Saurav-045/Smile_NGO/assets/83125250/97966e50-931d-4643-8587-37f8da890f38) | ![Project_Screenshot 2]|(https://github.com/Saurav-045/Smile_NGO/assets/83125250/a24c8a4f-bdb2-49bc-aeb2-3d1afd7af0a7)|
+| ![Screenshot 1](https://github.com/Saurav-045/Smile_NGO/assets/83125250/97966e50-931d-4643-8587-37f8da890f38) | ![Screenshot 2](https://github.com/Saurav-045/Smile_NGO/assets/83125250/a24c8a4f-bdb2-49bc-aeb2-3d1afd7af0a7) |
 |-------------------------------------------|-------------------------------------------|
+| *Homepage Carousel 1*                | *Homepage Caousel 2*                |
 
 
 ## Overview 📖
