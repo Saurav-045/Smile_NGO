@@ -25,9 +25,9 @@ Here's a rundown of the technologies and tools used in this project:
 
 ## Screenshots 📷
 
-| ![Screenshot 1](./images/screenshot1.png) | ![Screenshot 2](./images/screenshot2.png) |
+| ![Screenshot 1](https://github.com/Saurav-045/Smile_NGO/assets/83125250/d94b45c2-bc21-4bda-83b1-cff5996b79f4) | ![Screenshot 2](https://github.com/Saurav-045/Smile_NGO/assets/83125250/fe7d4908-c366-493b-ba2d-ddcc6cc5db46) |
 |-------------------------------------------|-------------------------------------------|
-| *Caption for Screenshot 1*                | *Caption for Screenshot 2*                |
+| *Donation Section*                | *Payment Gateway for donation*                |
 
 ## Installation and Usage 🚦
 ![p1_1]
