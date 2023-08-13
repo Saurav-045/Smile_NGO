@@ -1,8 +1,8 @@
 # SMILE NGO 🚀
 
-**SMILE*, a full-stack web development project that showcases my coding skills and creativity! 🌟
+*SMILE*, a full-stack web development project that showcases my coding skills and creativity! 🌟
 
-![Project Screenshot](./src/)
+![Project Screenshot](https://github.com/Saurav-045/Smile_NGO/assets/83125250/97966e50-931d-4643-8587-37f8da890f38)
 
 ## Overview 📖
 
@@ -30,6 +30,7 @@ Here's a rundown of the technologies and tools used in this project:
 | *Caption for Screenshot 1*                | *Caption for Screenshot 2*                |
 
 ## Installation and Usage 🚦
+![p1_1]
 
 1. Clone this repository.
 2. Navigate to the project directory: `cd project-name`.
